@@ -4,5 +4,5 @@ This is a repo without particularly interesting code. It primarily serves as a s
 
 ## Branch protection rules
 
-- One reviewer is required (can be anyone)
+- One reviewer is required
 - CircleCI must pass on any PRs going into master
