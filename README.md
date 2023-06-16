@@ -5,5 +5,4 @@ This is a repo without particularly interesting code. It primarily serves as a s
 ## Branch protection rules
 
 - No reviewers are required
-- PRs can only be merged by a bot user
 - CircleCI must pass on any PRs going into master
